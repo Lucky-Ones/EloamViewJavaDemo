@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="file://D:/Program Files (x86)/eclipse/plugins/org.eclipse.osgi_3.8.1.v20120830-144521.jar" />
+    <libelement value="file://D:/Program Files (x86)/eclipse/plugins/org.eclipse.core.commands_3.6.1.v20120814-150512.jar" />
+    <libelement value="file://D:/Program Files (x86)/eclipse/plugins/org.eclipse.equinox.common_3.6.100.v20120522-1841.jar" />
+    <libelement value="file://D:/Program Files (x86)/eclipse/plugins/org.eclipse.equinox.registry_3.5.200.v20120522-1841.jar" />
+    <libelement value="file://D:/Program Files (x86)/eclipse/plugins/org.eclipse.core.runtime_3.8.0.v20120521-2346.jar" />
+    <libelement value="file://D:/Program Files (x86)/eclipse/plugins/org.eclipse.text_3.5.200.v20120523-1310.jar" />
+    <libelement value="file://D:/Program Files (x86)/eclipse/plugins/org.eclipse.swt.win32.win32.x86_3.100.1.v4234e.jar" />
+    <libelement value="file://D:/Program Files (x86)/eclipse/plugins/org.eclipse.jface_3.8.101.v20120817-083647.jar" />
+    <libelement value="file://D:/Program Files (x86)/eclipse/plugins/org.eclipse.jface.text_3.8.1.v20120828-155502.jar" />
+    <libelement value="file://D:/Program Files (x86)/eclipse/plugins/org.eclipse.ui.workbench_3.103.1.v20120906-120042.jar" />
+    <libelement value="file://D:/Program Files (x86)/eclipse/plugins/com.ibm.icu_4.4.2.v20110823.jar" />
+    <libelement value="file://D:/Program Files (x86)/eclipse/plugins/org.eclipse.ui.forms_3.5.200.v20120705-114351.jar" />
+    <libelement value="file://E:/workspace32s/eloamComJavaDemo/lib/org.eclipse.swt.win32.win32.x86_3.103.1.v20140903-1947/org.eclipse.swt.win32.win32.x86_3.103.1.v20140903-1947.jar" />
+    <src_description expected_position="0">
+      <src_folder value="file://$MODULE_DIR$/src" expected_position="0" />
+    </src_description>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/bin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="jdk" jdkName="OSGi%Minimum-1.2" jdkType="JavaSDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="org.eclipse.osgi_3.8.1.v20120830-144521.jar">
+        <CLASSES>
+          <root url="file://D:/Program Files (x86)/eclipse/plugins/org.eclipse.osgi_3.8.1.v20120830-144521.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://D:/Program Files (x86)/eclipse/plugins/org.eclipse.osgi.source_3.8.1.v20120830-144521.jar" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.eclipse.core.commands_3.6.1.v20120814-150512.jar">
+        <CLASSES>
+          <root url="file://D:/Program Files (x86)/eclipse/plugins/org.eclipse.core.commands_3.6.1.v20120814-150512.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://D:/Program Files (x86)/eclipse/plugins/org.eclipse.core.commands.source_3.6.1.v20120814-150512.jar" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.eclipse.equinox.common_3.6.100.v20120522-1841.jar">
+        <CLASSES>
+          <root url="file://D:/Program Files (x86)/eclipse/plugins/org.eclipse.equinox.common_3.6.100.v20120522-1841.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://D:/Program Files (x86)/eclipse/plugins/org.eclipse.equinox.common.source_3.6.100.v20120522-1841.jar" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.eclipse.equinox.registry_3.5.200.v20120522-1841.jar">
+        <CLASSES>
+          <root url="file://D:/Program Files (x86)/eclipse/plugins/org.eclipse.equinox.registry_3.5.200.v20120522-1841.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://D:/Program Files (x86)/eclipse/plugins/org.eclipse.equinox.registry.source_3.5.200.v20120522-1841.jar" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.eclipse.core.runtime_3.8.0.v20120521-2346.jar">
+        <CLASSES>
+          <root url="file://D:/Program Files (x86)/eclipse/plugins/org.eclipse.core.runtime_3.8.0.v20120521-2346.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://D:/Program Files (x86)/eclipse/plugins/org.eclipse.core.runtime.source_3.8.0.v20120521-2346.jar" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.eclipse.text_3.5.200.v20120523-1310.jar">
+        <CLASSES>
+          <root url="file://D:/Program Files (x86)/eclipse/plugins/org.eclipse.text_3.5.200.v20120523-1310.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://D:/Program Files (x86)/eclipse/plugins/org.eclipse.text.source_3.5.200.v20120523-1310.jar" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.eclipse.swt.win32.win32.x86_3.100.1.v4234e.jar">
+        <CLASSES>
+          <root url="file://D:/Program Files (x86)/eclipse/plugins/org.eclipse.swt.win32.win32.x86_3.100.1.v4234e.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://D:/Program Files (x86)/eclipse/plugins/org.eclipse.swt.win32.win32.x86.source_3.100.1.v4234e.jar" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.eclipse.jface_3.8.101.v20120817-083647.jar">
+        <CLASSES>
+          <root url="file://D:/Program Files (x86)/eclipse/plugins/org.eclipse.jface_3.8.101.v20120817-083647.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://D:/Program Files (x86)/eclipse/plugins/org.eclipse.jface.source_3.8.101.v20120817-083647.jar" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.eclipse.jface.text_3.8.1.v20120828-155502.jar">
+        <CLASSES>
+          <root url="file://D:/Program Files (x86)/eclipse/plugins/org.eclipse.jface.text_3.8.1.v20120828-155502.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://D:/Program Files (x86)/eclipse/plugins/org.eclipse.jface.text.source_3.8.1.v20120828-155502.jar" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.eclipse.ui.workbench_3.103.1.v20120906-120042.jar">
+        <CLASSES>
+          <root url="file://D:/Program Files (x86)/eclipse/plugins/org.eclipse.ui.workbench_3.103.1.v20120906-120042.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://D:/Program Files (x86)/eclipse/plugins/org.eclipse.ui.workbench.source_3.103.1.v20120906-120042.jar" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="com.ibm.icu_4.4.2.v20110823.jar">
+        <CLASSES>
+          <root url="file://D:/Program Files (x86)/eclipse/plugins/com.ibm.icu_4.4.2.v20110823.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://D:/Program Files (x86)/eclipse/plugins/com.ibm.icu.source_4.4.2.v20110823.jar" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.eclipse.ui.forms_3.5.200.v20120705-114351.jar">
+        <CLASSES>
+          <root url="file://D:/Program Files (x86)/eclipse/plugins/org.eclipse.ui.forms_3.5.200.v20120705-114351.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://D:/Program Files (x86)/eclipse/plugins/org.eclipse.ui.forms.source_3.5.200.v20120705-114351.jar" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="org.eclipse.swt.win32.win32.x86_3.103.1.v20140903-1947.jar">
+        <CLASSES>
+          <root url="file://E:/workspace32s/eloamComJavaDemo/lib/org.eclipse.swt.win32.win32.x86_3.103.1.v20140903-1947/org.eclipse.swt.win32.win32.x86_3.103.1.v20140903-1947.jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="library" exported="" name="org.eclipse.swt.win32.win32.x86_3.103.1" level="project" />
+  </component>
+</module>
