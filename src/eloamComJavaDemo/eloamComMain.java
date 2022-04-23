@@ -26,7 +26,7 @@ import org.eclipse.swt.widgets.MessageBox;
 import org.eclipse.swt.widgets.Shell;
 
 public class eloamComMain {
-
+	//1
 	private eloamViewOCX ocx1;// Ô¤ÀÀ´°¿Ú
 	private eloamThumbnailOCX ocx2;// ËõÂÔÍ¼´°¿Ú
 
